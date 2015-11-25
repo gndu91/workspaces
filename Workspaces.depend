@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1448456452 source:u:\bureau\workspaces\main.cpp
+	"main.h"
+
+1448458268 u:\bureau\workspaces\main.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<windows.h>
+	<WinBase.h>
+	"include/workspace.h"
+
+1448453774 u:\bureau\workspaces\include\workspace.h
+	"../main.h"
+
+1448458285 source:u:\bureau\workspaces\src\workspace.cpp
+	"WorkSpace.h"
+
